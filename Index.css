@@ -1,0 +1,56 @@
+body
+{
+    font-family: Helvetica, sans-serif;
+    background-color: black;
+}
+.ig
+{
+    background: white;
+    margin: 50px auto;
+    width: 450px;
+    height: 600px;
+}
+.header
+{
+height: 50px;
+background: white;
+display: flex;
+padding-top: 12px;
+padding-left: 12px;
+padding-right: 12px;
+}
+.header-left
+{
+width: 10%;
+font-size: 35px;
+height: 100%;
+background: white;
+float: left;
+margin-left: 5px;
+}
+.header-right
+{
+width: 20%;
+height:100%;
+float: right;
+}
+.header-center
+{
+width: 70%;
+height: 100%;
+float: left;
+}
+.icon-right
+{
+    float: right;
+}
+.icons{
+    padding: 12px;
+}
+.icons i{
+    margin-right: 2px;
+}
+.text
+{
+    padding: 10px;
+}
